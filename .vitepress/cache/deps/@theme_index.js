@@ -1,5 +1,5 @@
 import { computed, ref, shallowRef, watch } from "./vue.runtime.esm-bundler-DP3eo4Mj.js";
-import { useMediaQuery } from "./core-DO65y4rn.js";
+import { useMediaQuery } from "./core-DKzPGeFN.js";
 import "D:/sekaimovieguide/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 import "D:/sekaimovieguide/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
 import "D:/sekaimovieguide/node_modules/vitepress/dist/client/theme-default/styles/base.css";

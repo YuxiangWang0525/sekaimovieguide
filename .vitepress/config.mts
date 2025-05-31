@@ -22,7 +22,7 @@ export default defineConfig({
       // }
     ],
     footer: {
-      message: "<a href='https://github.com/YuxiangWang0525/sekaimovieguide' target='_blank'>我有不同观点或想要编写更详细的内容! 前往GitHub编辑此页面</a><br>Contents publish onder CC BY-NC-SA 4.0. WebFunction SourceCode Release Under Apache License 2.0. Powered by <a href='https://vitepress.dev' target='_blank'>VitePress</a>",
+      message: "<a href='https://github.com/YuxiangWang0525/sekaimovieguide' target='_blank'>我有不同观点或想要编写更详细的内容! 前往GitHub编辑此页面</a><br>Contents publish under CC BY-NC-SA 4.0. WebFunction sourcecode release under Apache License 2.0. Powered by <a href='https://vitepress.dev/zh/' target='_blank'>VitePress</a>",
       copyright: "Copyright © 2025-present <a href='https://yuxiangwang0525.com' target='_target'>晚江右海 Wong YukCheung</a> - 本站与SEGA、Colorful Palette、CRYPTON FUTURE MEDIA无关",
       },
     socialLinks: [

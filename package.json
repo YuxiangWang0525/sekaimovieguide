@@ -9,5 +9,8 @@
   },
   "resolutions": {
     "vite": "npm:rolldown-vite@latest"
+  },
+  "dependencies": {
+    "@vueuse/core": "^13.3.0"
   }
 }

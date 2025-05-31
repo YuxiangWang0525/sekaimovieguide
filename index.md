@@ -18,4 +18,36 @@
 
 如您有像组建观影群的打算,可以将群号和地区发送邮件到[wongyukcheung@outlook.com](mailto:晚江右海<wongyukcheung@outlook.com>?subject=申请观影群展示&body=我是[更改成您的CN]%2C我想组建[要组建观影会的区域]区域的观影群%2C群号是%3A[群号]%2C该群号是[QQ/Discord/其他平台]群号。) 或添加QQ 3194607988 备注来意为:登记观影群。即可登记到这个页面。
 
-注意哦，如果观影会群主为未成年人。需要经过监护人的同意再登记哦!
+> [!WARNING] 注意哦
+> 
+> 如果观影会群主为未成年人。(无论是否为年满16周岁且具有自主收入的完全民生行为能力人)
+> 
+> 都需要经过监护人的同意再登记哦!
+
+#### 内地观影群列表:
+
+> [!TIP] 提示
+> 
+> 信息非实时更新
+
+## 分享本页
+
+如果你觉得这个网站对你有用,请分享给他人
+
+
+
+
+
+
+<button @click="ShareThisPage">分享</button>
+<script setup>
+import { useShare } from '@vueuse/core'
+const { share } = useShare()
+const ShareThisPage = () => {
+ share({
+ title: '剧场版世界计划观影指南',
+ text: '收下这份剧场版观影指南,Hello SEKAI!',
+ url: location.href,
+ })
+}
+</script>
