@@ -7,9 +7,6 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "resolutions": {
-    "vite": "npm:rolldown-vite@latest"
-  },
   "dependencies": {
     "@vueuse/core": "^13.3.0"
   }
